@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nicola\\source\\repos\\Android-microtask_edicola\\Android-microtask_edicola\\app\\build\\intermediates\\res\\merged\\x86\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\Nicola\\source\\repos\\Android-microtask_edicola\\Android-microtask_edicola\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 62,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

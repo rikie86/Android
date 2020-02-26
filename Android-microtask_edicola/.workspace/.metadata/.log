@@ -1,0 +1,33 @@
+!SESSION 2020-02-26 00:46:31.552 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-1955a4bd-c512-4b73-b529-9254964615d9
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\Nicola\source\repos\Android-microtask_edicola\.workspace javapkgsrv-1955a4bd-c512-4b73-b529-9254964615d9
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 02:36:20.599
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-02-26 03:07:41.243 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-99a9c12c-9eb0-429a-8a79-33c706a59081
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\Nicola\source\repos\Android-microtask_edicola\.workspace javapkgsrv-99a9c12c-9eb0-429a-8a79-33c706a59081
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 03:07:42.583
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 04:36:57.805
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-02-26 11:27:28.636 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-1e800a06-65ef-4338-9973-bd495490d266
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\Nicola\source\repos\Android-microtask_edicola\.workspace javapkgsrv-1e800a06-65ef-4338-9973-bd495490d266
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 11:27:30.256
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
