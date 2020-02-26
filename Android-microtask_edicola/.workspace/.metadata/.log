@@ -31,3 +31,13 @@ Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.appli
 
 !ENTRY org.eclipse.core.resources 2 10035 2020-02-26 11:27:30.256
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2020-02-26 16:21:32.157 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-035558db-42f9-4f99-92e1-496ed31c2580
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\Nicola\Documents\GitHub_2\Android\Android-microtask_edicola\.workspace javapkgsrv-035558db-42f9-4f99-92e1-496ed31c2580
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-26 16:21:35.664
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
